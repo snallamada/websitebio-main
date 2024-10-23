@@ -16,7 +16,7 @@ const LeftBanner = () => {
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
         <h1 className="text-6xl font-bold text-white">
-          Hi, I'm <span className="text-designColor capitalize">Shravan</span>
+          Hi, I'm <span className="text-designColor capitalize">Sai Bobbala</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
           a <span>{text}</span>
@@ -27,7 +27,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        Experienced Full Stack Developer with 5+ years of exposure. Expertise in ReactJs & 3+years of working in France, Graduated from Ecole de Management Leonard De Vinci (EMLV).
+        Experienced Full Stack Developer with 5+ years of exposure. Expertise in ReactJs & 3+years of working in United States, Graduated from Ecole de Management Leonard De Vinci (EMLV).
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
